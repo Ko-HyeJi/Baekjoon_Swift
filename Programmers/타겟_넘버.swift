@@ -18,7 +18,7 @@
   타겟 넘버는 1 이상 1000 이하인 자연수입니다.
 
 입출력 예
-  numbers	       target  return
+  numbers	         target  return
   [1, 1, 1, 1, 1]  3       5
   [4, 1, 2, 1]	   4       2
 */
